@@ -5,4 +5,4 @@
 <h1>3. Extraia em uma única pasta</h1>
 <h1>4. Abra o arquivo <strong>index.html</strong></h1>
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/vinicius4006/Rich_Text-Project/blob/main/rich.PNG "Rich Text")
